@@ -1,0 +1,702 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1d8bfb84-4bf8-46c9-8d61-9fe8fb3fdce5" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="TicketDecorator.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/nl/itris/decorator/TicketDecorator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#333#334#0" expanded="true" />
+                <element signature="e#367#368#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>@author &lt;a href=&quot;mailto:jal@etc.to&quot;&gt;Frits Jalvingh&lt;/a&gt;</find>
+      <find>notifyO</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>@author &lt;a href=&quot;mailto:tes.van.der.vlist@itris.nl&quot;&gt;Tes van der Vlist&lt;/a&gt;</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/nl/itris/Main.java" />
+        <option value="$PROJECT_DIR$/src/nl/itris/Klasse.java" />
+        <option value="$PROJECT_DIR$/src/nl/itris/ITicketFactory.java" />
+        <option value="$PROJECT_DIR$/src/nl/itris/Vliegticket.java" />
+        <option value="$PROJECT_DIR$/src/nl/itris/KlmBusinessClassTicket.java" />
+        <option value="$PROJECT_DIR$/src/nl/itris/KlmTicketFactory.java" />
+        <option value="$PROJECT_DIR$/src/nl/itris/factory/AfTicketFactory.java" />
+        <option value="$PROJECT_DIR$/src/nl/itris/factory/AirFranceTicketFactory.java" />
+        <option value="$PROJECT_DIR$/src/nl/itris/IObserver.java" />
+        <option value="$PROJECT_DIR$/src/nl/itris/observer/IObservable.java" />
+        <option value="$PROJECT_DIR$/src/nl/itris/observer/IObserver.java" />
+        <option value="$PROJECT_DIR$/src/nl/itris/factory/KlmTicketFactory.java" />
+        <option value="$PROJECT_DIR$/src/nl/itris/Vlucht.java" />
+        <option value="$PROJECT_DIR$/src/nl/itris/Passagier.java" />
+        <option value="$PROJECT_DIR$/src/nl/itris/decorator/TicketDecorator.java" />
+        <option value="$PROJECT_DIR$/src/nl/itris/IVliegticket.java" />
+        <option value="$PROJECT_DIR$/src/nl/itris/ticket/AbstractVliegTicket.java" />
+        <option value="$PROJECT_DIR$/src/nl/itris/ticket/AirFranceBusinessClassTicket.java" />
+        <option value="$PROJECT_DIR$/src/nl/itris/ticket/AirFranceEconomyClassTicket.java" />
+        <option value="$PROJECT_DIR$/src/nl/itris/ticket/AirFranceFirstClassTicket.java" />
+        <option value="$PROJECT_DIR$/src/nl/itris/ticket/KlmBusinessClassTicket.java" />
+        <option value="$PROJECT_DIR$/src/nl/itris/ticket/KlmEconomyClassTicket.java" />
+        <option value="$PROJECT_DIR$/src/nl/itris/ticket/KlmFirstClassTicket.java" />
+        <option value="$PROJECT_DIR$/src/nl/itris/decorator/SelfieDecorator.java" />
+        <option value="$PROJECT_DIR$/src/nl/itris/StagiairAirlines.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1920" />
+    <option name="y" value="-2" />
+    <option name="width" value="1920" />
+    <option name="height" value="1202" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="stagiairairlines" type="b2602c69:ProjectViewProjectNode" />
+              <item name="stagiairairlines" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="stagiairairlines" type="b2602c69:ProjectViewProjectNode" />
+              <item name="stagiairairlines" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="stagiairairlines" type="b2602c69:ProjectViewProjectNode" />
+              <item name="stagiairairlines" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="itris" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="stagiairairlines" type="b2602c69:ProjectViewProjectNode" />
+              <item name="stagiairairlines" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="itris" type="462c0819:PsiDirectoryNode" />
+              <item name="decorator" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="stagiairairlines" type="b2602c69:ProjectViewProjectNode" />
+              <item name="stagiairairlines" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="itris" type="462c0819:PsiDirectoryNode" />
+              <item name="factory" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="stagiairairlines" type="b2602c69:ProjectViewProjectNode" />
+              <item name="stagiairairlines" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="itris" type="462c0819:PsiDirectoryNode" />
+              <item name="observer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="stagiairairlines" type="b2602c69:ProjectViewProjectNode" />
+              <item name="stagiairairlines" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="itris" type="462c0819:PsiDirectoryNode" />
+              <item name="ticket" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/nl/itris/ticket" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="nl.itris.observer" />
+      <recent name="nl.itris.factory" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="nl.itris.observer" />
+      <recent name="nl.itris" />
+      <recent name="nl.itris.ticket" />
+      <recent name="nl.itris.factory" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="nl.itris.StagiairAirlines" />
+      <module name="stagiairairlines" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1d8bfb84-4bf8-46c9-8d61-9fe8fb3fdce5" name="Default" comment="" />
+      <created>1551801414136</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551801414136</updated>
+      <workItem from="1551801418148" duration="13717000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="13717000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1920" y="25" width="1920" height="1110" extended-state="6" />
+    <layout>
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" weight="0.2823804" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info id="Image Layers" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32958034" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.3302564" />
+      <window_info id="Capture Tool" />
+      <window_info id="Designer" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19156884" />
+      <window_info anchor="bottom" id="SonarLint" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32958034" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39918116" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/nl/itris/StagiairAirlines.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/nl/itris/Vliegticket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="24" column="35" lean-forward="true" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nl/itris/Klasse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nl/itris/factory/AirFranceTicketFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="46" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="270" column="29" selection-start-line="270" selection-start-column="29" selection-end-line="270" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nl/itris/observer/IObserver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nl/itris/observer/IObservable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nl/itris/ITicketFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="21" lean-forward="true" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nl/itris/Vlucht.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="68" selection-start-line="68" selection-end-line="68" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#867#868#0" expanded="true" />
+            <element signature="e#891#892#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nl/itris/Passagier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="26" column="131" selection-start-line="26" selection-start-column="131" selection-end-line="26" selection-end-column="131" />
+          <folding>
+            <element signature="e#435#436#0" expanded="true" />
+            <element signature="e#504#505#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nl/itris/factory/KlmTicketFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="39" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nl/itris/IVliegticket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nl/itris/ticket/AbstractVliegTicket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="39" lean-forward="true" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nl/itris/ticket/AirFranceBusinessClassTicket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="54" lean-forward="true" selection-start-line="10" selection-start-column="54" selection-end-line="10" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nl/itris/ticket/AirFranceEconomyClassTicket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="68" selection-start-line="10" selection-start-column="68" selection-end-line="10" selection-end-column="68" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nl/itris/ticket/AirFranceFirstClassTicket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="66" selection-start-line="10" selection-start-column="66" selection-end-line="10" selection-end-column="66" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#609#610#0" expanded="true" />
+            <element signature="e#634#635#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nl/itris/ticket/KlmBusinessClassTicket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="63" selection-start-line="10" selection-start-column="63" selection-end-line="10" selection-end-column="63" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#321#322#0" expanded="true" />
+            <element signature="e#351#352#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nl/itris/ticket/KlmEconomyClassTicket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="62" selection-start-line="10" selection-start-column="62" selection-end-line="10" selection-end-column="62" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#319#320#0" expanded="true" />
+            <element signature="e#349#350#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nl/itris/ticket/KlmFirstClassTicket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="60" selection-start-line="10" selection-start-column="60" selection-end-line="10" selection-end-column="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#316#317#0" expanded="true" />
+            <element signature="e#346#347#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/nl.itris.StagiairAirlines">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>nl.itris.StagiairAirlines</OriginalElement>
+          <nodes>
+            <node x="" y="">nl.itris.StagiairAirlines</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="77.5" y="16.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/nl.itris">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>nl.itris</OriginalElement>
+          <nodes>
+            <node x="818.0" y="82.0">nl.itris.ticket.AbstractVliegTicket</node>
+            <node x="556.0" y="333.0">nl.itris.Passagier</node>
+            <node x="0.0" y="333.0">nl.itris.factory.KlmTicketFactory</node>
+            <node x="0.0" y="82.0">nl.itris.decorator.TicketDecorator</node>
+            <node x="473.75" y="251.0">nl.itris.observer</node>
+            <node x="179.5" y="174.0">nl.itris.ticket.KlmBusinessClassTicket</node>
+            <node x="1406.5" y="174.0">nl.itris.ticket.KlmEconomyClassTicket</node>
+            <node x="115.0" y="251.0">nl.itris.ITicketFactory</node>
+            <node x="441.0" y="333.0">nl.itris.Vlucht</node>
+            <node x="1.5" y="174.0">nl.itris.decorator.SelfieDecorator</node>
+            <node x="930.5" y="174.0">nl.itris.ticket.KlmFirstClassTicket</node>
+            <node x="188.0" y="333.0">nl.itris.factory.AirFranceTicketFactory</node>
+            <node x="502.10833333333335" y="0.0">nl.itris.IVliegticket</node>
+            <node x="717.0" y="251.0">nl.itris.StagiairAirlines</node>
+            <node x="687.5" y="174.0">nl.itris.ticket.AirFranceFirstClassTicket</node>
+            <node x="412.50000000000006" y="174.0">nl.itris.ticket.AirFranceEconomyClassTicket</node>
+            <node x="1133.5" y="174.0">nl.itris.ticket.AirFranceBusinessClassTicket</node>
+            <node x="917.0" y="251.0">nl.itris.Klasse</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="nl.itris.Vlucht" target="nl.itris.observer">
+              <point x="0.0" y="-16.0" />
+              <point x="488.5" y="308.0" />
+              <point x="512.5" y="308.0" />
+              <point x="-38.75" y="16.0" />
+            </edge>
+            <edge source="nl.itris.ticket.AirFranceFirstClassTicket" target="nl.itris.ticket.AbstractVliegTicket">
+              <point x="0.0" y="-16.0" />
+              <point x="799.0" y="154.0" />
+              <point x="895.0833333333335" y="154.0" />
+              <point x="-15.416666666666629" y="16.0" />
+            </edge>
+            <edge source="nl.itris.factory.KlmTicketFactory" target="nl.itris.ITicketFactory">
+              <point x="0.0" y="-16.0" />
+              <point x="84.0" y="308.0" />
+              <point x="151.5" y="308.0" />
+              <point x="-36.5" y="16.0" />
+            </edge>
+            <edge source="nl.itris.decorator.SelfieDecorator" target="nl.itris.decorator.TicketDecorator">
+              <point x="0.0" y="-16.0" />
+              <point x="0.0" y="16.0" />
+            </edge>
+            <edge source="nl.itris.ticket.KlmFirstClassTicket" target="nl.itris.ticket.AbstractVliegTicket">
+              <point x="0.0" y="-16.0" />
+              <point x="1022.0" y="154.0" />
+              <point x="925.9166666666667" y="154.0" />
+              <point x="15.416666666666629" y="16.0" />
+            </edge>
+            <edge source="nl.itris.ticket.AirFranceBusinessClassTicket" target="nl.itris.ticket.AbstractVliegTicket">
+              <point x="0.0" y="-16.0" />
+              <point x="1260.0" y="144.0" />
+              <point x="956.75" y="144.0" />
+              <point x="46.25" y="16.0" />
+            </edge>
+            <edge source="nl.itris.ticket.AbstractVliegTicket" target="nl.itris.IVliegticket">
+              <point x="0.0" y="-16.0" />
+              <point x="910.5" y="57.0" />
+              <point x="598.1083333333333" y="57.0" />
+              <point x="32.0" y="16.0" />
+            </edge>
+            <edge source="nl.itris.decorator.TicketDecorator" target="nl.itris.IVliegticket">
+              <point x="0.0" y="-16.0" />
+              <point x="80.5" y="57.0" />
+              <point x="534.1083333333333" y="57.0" />
+              <point x="-32.0" y="16.0" />
+            </edge>
+            <edge source="nl.itris.ticket.KlmBusinessClassTicket" target="nl.itris.ticket.AbstractVliegTicket">
+              <point x="0.0" y="-16.0" />
+              <point x="286.0" y="134.0" />
+              <point x="833.4166666666667" y="134.0" />
+              <point x="-77.08333333333337" y="16.0" />
+            </edge>
+            <edge source="nl.itris.ticket.AirFranceEconomyClassTicket" target="nl.itris.ticket.AbstractVliegTicket">
+              <point x="0.0" y="-16.0" />
+              <point x="540.0" y="144.0" />
+              <point x="864.25" y="144.0" />
+              <point x="-46.25" y="16.0" />
+            </edge>
+            <edge source="nl.itris.ticket.KlmEconomyClassTicket" target="nl.itris.ticket.AbstractVliegTicket">
+              <point x="0.0" y="-16.0" />
+              <point x="1514.0" y="134.0" />
+              <point x="987.5833333333333" y="134.0" />
+              <point x="77.08333333333326" y="16.0" />
+            </edge>
+            <edge source="nl.itris.Passagier" target="nl.itris.observer">
+              <point x="0.0" y="-16.0" />
+              <point x="614.0" y="308.0" />
+              <point x="590.0" y="308.0" />
+              <point x="38.75" y="16.0" />
+            </edge>
+            <edge source="nl.itris.factory.AirFranceTicketFactory" target="nl.itris.ITicketFactory">
+              <point x="0.0" y="-16.0" />
+              <point x="292.0" y="308.0" />
+              <point x="224.5" y="308.0" />
+              <point x="36.5" y="16.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="751.5" y="175.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nl/itris/StagiairAirlines.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="63" lean-forward="true" selection-start-line="9" selection-start-column="63" selection-end-line="9" selection-end-column="63" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nl/itris/decorator/SelfieDecorator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#286#287#0" expanded="true" />
+            <element signature="e#311#312#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nl/itris/decorator/TicketDecorator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#333#334#0" expanded="true" />
+            <element signature="e#367#368#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>apache-tomcat-6.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8 (1)</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>stagiairairlines</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
